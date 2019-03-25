@@ -1,6 +1,6 @@
 import sys
 import logging
-import pymysql
+import pymssql
 
 
 name = ""
